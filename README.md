@@ -1,9 +1,10 @@
-# Gatsby React Bootstrap Starter
+# README
 
-A GatsbyJS starter that includes
+## Sweet sweet Jamstack
 
-- react-bootstrap
-- react-icons
-- sticky on scroll navbar
-- SASS compiler
-- basic layout
+This starter was found here:
+
+- [JAMstack themes demo](https://jamstackthemes.dev/#ssg=gatsby&css=bootstrap)
+- [billyjacoby
+/
+gatsby-react-bootstrap-starter](https://github.com/billyjacoby/gatsby-react-bootstrap-starter)
